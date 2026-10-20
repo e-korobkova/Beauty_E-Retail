@@ -1,4 +1,4 @@
-pip install pandas numpy faker
+
 
 import datetime
 import random
