@@ -19,6 +19,12 @@ An end-to-end customer analytics project designed for a UK-based e-commerce beau
 2. **Total Revenue by Segment:** Highlights which customer groups drive the highest monetary value (£) for the business.
 
 ---
+## Model Interpretation & Business Insights
+
+Our Logistic Regression model achieved a **94% overall accuracy**, highlighting key drivers of customer churn in the UK Beauty Retail sector[cite: 15]:
+
+* **Frequency is King:** The coefficient for purchase frequency (-0.188)[cite: 15] demonstrates that keeping customers engaged on a regular basis is the single most effective way to prevent churn. 
+* **Actionable Takeaway:** Instead of focusing marketing budget exclusively on high-spending VIPs, retention campaigns should target customers whose purchase *frequency* begins to drop, triggering automated re-engagement workflows before they completely churn.
 
 ## Tech Stack & Workflow
 
