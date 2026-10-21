@@ -52,3 +52,14 @@ Our Logistic Regression model achieved a **94% overall accuracy**, highlighting 
 | **Hibernating / Lost** | Low-cost automated reactivation or database cleanup. |
 
 ---
+
+Beauty_E-Retail/
+├── data/
+│   └── uk_beauty_rfm_segments.csv
+├── scripts/
+│   ├── generate_beauty_retail_data.py
+│   ├── rfm_analysis.py
+│   └── churn_prediction.py
+└── README.md
+
+
